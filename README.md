@@ -1,5 +1,5 @@
 # Weather-App
-I made this app to check weather of cities all over the world.
+Check the weather around the world with just a glance with this app.
 
 # Technologies Used
 -> HTML

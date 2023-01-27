@@ -5,4 +5,4 @@ Check the weather around the world with just a glance with this app.
 -> HTML
 -> CSS
 -> Javascript
--> OpenWeateh Api for getting current weather report
+-> OpenWeather Api for getting current weather report
